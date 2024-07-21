@@ -1,0 +1,74 @@
+.nav {
+  font-weight: 500;
+  background-color: #DDEAFC;
+  width: 100%;
+  padding: 16px;
+  font-size: large;
+}
+
+.contact-button {
+  margin-left: 16px;
+  color: #297CE9;
+}
+
+.dropdown {
+  margin-left: 28px;
+}
+
+.header-sec {
+  padding-top: 16px;
+}
+
+.btn2 {
+  font-weight: 500;
+}
+
+.refer-main {
+  margin-top: 24px;
+  display: inline;
+  filter: drop-shadow(2px 2px 10px black);
+}
+
+.refer-img {
+  border-radius: 0px 20px 20px 0px;
+  display: inline;
+  background-color: #DDEAFC;
+}
+
+.refer-text {
+  border-radius: 20px 0px 0px 20px;
+  background-color: #DDEAFC;
+  max-width: 250px;
+}
+
+.heading {
+  font-size: xx-large;
+}
+
+.refer-two {
+  font-size: x-large;
+}
+
+.rs {
+  color: #297CE9;
+}
+
+.login {
+  background-color: #EAEDF1;
+}
+
+.modal-main {
+  overflow-y: auto;
+}
+
+.modal-main::-webkit-scrollbar {
+  display: none;
+}
+
+.buttons-sec {
+  max-width: 50%;
+}
+
+.buttons-sec {
+  border-radius: 24px;
+}
